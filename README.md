@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @k0nfus, 37 years old from Karlsruhe, Germany.
+- 👀 I’m interested in programming and chess.
+- 🌱 I’m currently learning the basics of Java :)
+- 💞️ I’m looking to collaborate on different, exciting projects to learn and learn and learn.
