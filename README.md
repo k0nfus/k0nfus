@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @k0nfus, 37 years old from Karlsruhe, Germany.
-- 👀 I’m interested in programming and chess.
-- 🌱 I’m currently learning the basics of HTML and CSS :)
+- 👋 Hi, I’m @k0nfus, 37 years old from Germany.
+- 🌱 Currently I am learning the basics of HTML and CSS. Looking forward to code in JavaScript!
