@@ -1,6 +1,6 @@
 # Hi, my name is Jan
 
-I live close to Karlsruhe, Germany and love coding.
+I live close to Karlsruhe, Germany and love creating software.
 
 ## Operating System
 
